@@ -1,5 +1,5 @@
 exports.testPage = function(authToken,twitterSes,link) {
-    let pup = require("pupeteer");
+    let pup = require("puppeteer");
     let aT = authToken;
     let tS = twitterSes;
     (async () => {
