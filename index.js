@@ -7,6 +7,6 @@ exports.testPage = function(authToken,twitterSes,link) {
         const page = await browser.newPage();
         await page.setCookie({name:"auth_token",value:aT,domain:".twitter.com"},{name:"_twitter_sess",value:tS,domain:".twitter.com"});
         await page.goto(link);
-        return page.response;
+        return page.url;
     })
 }
