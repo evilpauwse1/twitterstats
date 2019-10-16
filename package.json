@@ -1,0 +1,19 @@
+{
+  "name": "@evilpauwse/twitterstats",
+  "version": "1.0.0",
+  "description": "Allows for easy twitter stats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilpauwse1/twitterstats.git"
+  },
+  "author": "evilpauwse <epauwse@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evilpauwse1/twitterstats/issues"
+  },
+  "homepage": "https://github.com/evilpauwse1/twitterstats#readme"
+}
