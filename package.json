@@ -1,6 +1,6 @@
 {
   "name": "@evilpauwse/twitterstats",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Allows for easy twitter stats.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/evilpauwse1/twitterstats/issues"
   },
-  "homepage": "https://github.com/evilpauwse1/twitterstats#readme"
+  "homepage": "https://github.com/evilpauwse1/twitterstats#readme",
+  "dependencies": {
+    "pupeteer": "^1.19.0"
+  }
 }
