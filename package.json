@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/evilpauwse1/twitterstats#readme",
   "dependencies": {
-    "pupeteer": "^1.19.0"
+    "puppeteer": "^1.19.0"
   }
 }
